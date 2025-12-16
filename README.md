@@ -2,7 +2,7 @@
 <div align="center">
 
 # 💨 dave
-<img src="https://i.pinimg.com/originals/16/89/5b/231b6da505e2e4acef02a3c1fe.gif" width="420">
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnNrZnA3NG80emUzZG8xazgxM2ZoZ2lmNXluZmo3djZkazNreDZ6aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bJ4TVNYNUympPgcpem/giphy.gif" width="420">
 <img src="https://i.pinimg.com/originals/16/89/5b/16895b231b6da505e2e4acef02a3c1fe.gif" width="420">
 
 ### *“God has your back, just keep faith!”* 🛐
@@ -12,7 +12,7 @@
 
 ## 🌟 **Coding Activity**
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=davebataller&theme=react-dark&area=true&hide_border=true&custom_title=Chiel's%20Coding%20Activity" width="95%">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=davebataller&theme=react-dark&area=true&hide_border=true&custom_title=Janray's%20Coding%20Activity" width="95%">
 </div>
 
 ---
@@ -39,13 +39,13 @@
 
 <div align=center>
 
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=rucielmaeobias2105&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=davebataller&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
 
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=rucielmaeobias2105&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=davebataller&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
 
   <br/>
 
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=rucielmaeobias2105&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=davebataller&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 
 </div>
 </div>
@@ -53,8 +53,8 @@
 ---
 
 <div align="center">
-💖 Thanks for visiting!  
-Check out my repositories and leave some stars ⭐
+❤️ Matsala for visiting!  
+Look out my repositories and leave some stars ⭐
 </div>
 
 ---
