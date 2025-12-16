@@ -3,7 +3,6 @@
 
 # 💨 dave
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnNrZnA3NG80emUzZG8xazgxM2ZoZ2lmNXluZmo3djZkazNreDZ6aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bJ4TVNYNUympPgcpem/giphy.gif" width="420">
-<img src="https://i.pinimg.com/originals/16/89/5b/16895b231b6da505e2e4acef02a3c1fe.gif" width="420">
 
 ### *“God has your back, just keep faith!”* 🛐
 </div>
